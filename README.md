@@ -18,21 +18,6 @@ This project applies state-of-the-art Deep Learning models to classify customer 
 - Jupyter Notebook, Visual Studio Code
 - Scikit-learn, NumPy, Pandas, Matplotlib
 
----
-
-📂 Project Structure  
-
-Big-Data-Project/
-│-- code/                    # Codebase (Python & Jupyter Notebooks)
-│   │-- sentiment_analysis.py  # Main Python script
-│   │-- Review.ipynb           # Jupyter Notebook for interactive execution
-│-- dataset/                  # Datasets used for training/testing
-│   │-- allTV_review_2010.csv
-│-- docs/                     # Documentation & Reports
-│   │-- Project_Report.pdf
-│-- README.md                 # Project overview & setup guide
-│-- requirements.txt           # Dependencies
-│-- .gitignore                 # Files to be ignored in Git
 
 📊 Model Performance
 Model	      Accuracy
