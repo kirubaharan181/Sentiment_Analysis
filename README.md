@@ -1,7 +1,7 @@
 # Sentiment_Analysis
 Enhanced Deep Learning-Based Sentiment Analysis for Product Ranking  This project uses BERT, DistilBERT, RoBERTa, TextCNN, and TextRNN to classify customer sentiments in product reviews, improving e-commerce rankings. Features PLTS-based ranking, NLP, PyTorch, Transformers, and Matplotlib visualizations for high-accuracy sentiment analysis. 🚀
 
-🏆 Enhanced Deep Learning-Based Sentiment Analysis for Product Ranking  
+🏆 Enhanced Deep Learning-Based Sentiment Analysis for Product Ranking   
 
 📌 Introduction  
 This project applies state-of-the-art Deep Learning models to classify customer sentiments in product reviews. By leveraging BERT, DistilBERT, RoBERTa, TextCNN, and TextRNN, we enhance e-commerce product ranking accuracy using Probabilistic Linguistic Term Sets (PLTS).
